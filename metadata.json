@@ -1,0 +1,7 @@
+{
+  "name": "DICHAI1",
+  "description": "Real-time, low-latency speech transcription using the Web Speech API. Designed for meeting note-taking with strict fidelity and zero data loss.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
